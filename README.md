@@ -4,11 +4,11 @@
 
 ![preview](preview.GIF)
 
+# Install
 ```bash
-git clone https://github.com/thanhvule0310/ibus-polybar-module
-```
+git clone https://github.com/tht2005/ibus-polybar-module.git
 
-```bash
+# copy all the contents to your polybar config folder
 cp ibus-polybar-module/* ~/.config/polybar/scripts/
 ```
 
