@@ -25,9 +25,9 @@ cp -R ibus-polybar-module/* ~/.config/polybar/scripts/
 	    # Each line represent an ibus language
 	    # "Language name (depend on you, for display and debug purpose);engine name;language icon file path"
 	    IBUS_DATA=(
-	      "VIE;Bamboo::Candy;/home/tomoshibi/.config/polybar/scripts/flags/vietnam.svg"
-	      "ENG;BambooUs;/home/tomoshibi/.config/polybar/scripts/flags/226-united-states.svg"
-	      "JAP;anthy;/home/tomoshibi/.config/polybar/scripts/flags/063-japan.svg"
+	      "VIE;Bamboo::Candy;~/.config/polybar/scripts/flags/vietnam.svg"
+	      "ENG;BambooUs;~/.config/polybar/scripts/flags/226-united-states.svg"
+	      "JAP;anthy;~/.config/polybar/scripts/flags/063-japan.svg"
 	    )
 
 	    # Grey label shown when ibus is off
